@@ -2,6 +2,8 @@
 
 This is a simple Python application that converts user-input text into spoken words. It provides a graphical user interface (GUI) built using Tkinter, allowing users to easily input text, select a voice, and adjust the speech rate. The program supports both male and female voices and offers customization options for speech rate adjustment.
 
+![Uploading Screenshot 2024-03-29 234449.png…]()
+
 
 
 ## Features
